@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Backend Developer & Data Science Enthusiast from Argentina</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-rodriguez-3209b8256/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Rodriguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Gustavo Rodriguez" />
   </a>
 </p>
