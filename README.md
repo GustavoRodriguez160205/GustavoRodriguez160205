@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
-<h3 align="center">A Passionate Backend Developer from Argentina</h3>
+<h3 align="center">A Passionate Ia developer & Data Science Enthusiast from Argentina</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/gustavo-rodriguez" target="_blank">
@@ -11,10 +11,10 @@
 
 ### 💬 About Me
 
-- 🚀 Backend developer focused on building efficient, scalable systems.
-- 🔭 Currently diving deeper into **Node.js**, **Express**, **MongoDB**, and exploring **Data Science**.
-- 🌍 Based in Argentina, I’m eager to collaborate with teams globally.
-- 📚 Passionate about learning new technologies and solving complex backend challenges.
+- 🚀 I am a backend developer dedicated to building efficient and scalable systems.
+- 🤖 My passion lies in **Artificial Intelligence** and **Data Science**, constantly exploring new technologies and methodologies.
+- 🌍 Based in Argentina, I am eager to collaborate with global teams and share knowledge.
+- 📚 I love tackling complex backend challenges and continuously learning to enhance my skills.
 
 ---
 
