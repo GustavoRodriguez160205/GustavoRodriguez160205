@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
-<h3 align="center">A Passionate Ia developer & Data Science Enthusiast from Argentina</h3>
+<h3 align="center">A Passionate Backend Developer & Data Science Enthusiast from Argentina</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gustavo-rodriguez" target="_blank">
-    <img src="https://www.linkedin.com/in/gustavo-rodriguez-3209b8256/" alt="LinkedIn Gustavo Rodriguez" />
+  <a href="https://www.linkedin.com/in/gustavo-rodriguez-3209b8256/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Rodriguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Gustavo Rodriguez" />
   </a>
 </p>
 
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
+
 
 ---
 
