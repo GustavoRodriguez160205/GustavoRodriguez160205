@@ -29,17 +29,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
-
----
-
-### 📫 Let's Connect:
-
-<p>
-  <a href="https://linkedin.com/in/gustavo-rodriguez" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Gustavo%20Rodriguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Gustavo Rodriguez" />
-  </a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats:
@@ -50,5 +39,3 @@
 </p>
 
 ---
-
-
