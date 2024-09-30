@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
 <h3 align="center">A Passionate Backend Developer & Data Science Enthusiast from Argentina</h3>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Rodriguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Gustavo Rodriguez" />
-  </a>
-</p>
-
 ---
 
 ### 💬 About Me
