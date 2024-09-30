@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
-<h3 align="center">A Passionate Ia Developer & Data Science Enthusiast from Argentina</h3>
+<h3 align="center">A Passionate IA Developer & Data Science Enthusiast from Argentina</h3>
 
 ### 💬 About Me
 
 - 🚀 I am a backend developer dedicated to building efficient and scalable systems.
-- 🤖 My passion lies in **Artificial Intelligence** and **Data Science**, constantly exploring new technologies and methodologies.
+- 🤖 I’m just starting my journey in **Artificial Intelligence** and **Data Science**, constantly exploring new technologies and methodologies.
 - 🌍 Based in Argentina, I am eager to collaborate with global teams and share knowledge.
 - 📚 I love tackling complex backend challenges and continuously learning to enhance my skills.
 
@@ -37,4 +37,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodev&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
----
