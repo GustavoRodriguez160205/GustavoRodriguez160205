@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
-<h3 align="center">A Passionate Backend Developer & Data Science Enthusiast from Argentina</h3>
+<h3 align="center">A Passionate Ia Developer & Data Science Enthusiast from Argentina</h3>
 ---
 
 ### 💬 About Me
