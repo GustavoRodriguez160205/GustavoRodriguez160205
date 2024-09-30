@@ -57,7 +57,4 @@
 
 ---
 
-### 🌟 Featured Projects:
 
-- [E-commerce API](https://github.com/gustavodev/ecommerce-api) - A full-featured backend for an e-commerce platform, built with **Node.js**, **Express**, and **MongoDB**.
-- [Football Reservation System](https://github.com/gustavodev/football-reservation) - A booking system for football fields, with user roles and management.
