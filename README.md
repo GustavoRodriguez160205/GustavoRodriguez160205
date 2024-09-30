@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gustavo-rodriguez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gustavo%20Rodriguez-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Gustavo Rodriguez" />
+    <img src="https://www.linkedin.com/in/gustavo-rodriguez-3209b8256/" alt="LinkedIn Gustavo Rodriguez" />
   </a>
 </p>
 
