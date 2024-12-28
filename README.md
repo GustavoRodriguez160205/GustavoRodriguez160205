@@ -16,13 +16,13 @@
 
 ## Projects
 
-### [Project Name](https://github.com/GustavoRodriguez160205/project-name)
-- Description: A brief description of what the project does and its main features.
-- Technologies: List the technologies used in the project.
+### [Project Name](https://github.com/GustavoRodriguez160205/proyecto)
+- Description: Proyecto Final de fin del Curso de Desarrollo Web Full Stack.
+- Technologies: React , NodeJs , Postman , MongoDb.
 
 ### [Another Project](https://github.com/GustavoRodriguez160205/another-project)
-- Description: A brief description of what the project does and its main features.
-- Technologies: List the technologies used in the project.
+- Description: Sistema de Agenda Multiusuario.
+- Technologies: React , NodeJs , MondoDb.
 
 ## GitHub Stats
 
@@ -30,8 +30,8 @@
 
 ## Get in Touch
 
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Gustavo Rodriguez](https://www.linkedin.com/in/gustavorodriguez160205)
+- 📧 Email: [your-email@example.com](gustavorodriguezdeveloper@gmail.com)
+- 💼 LinkedIn: [Gustavo Rodriguez](https://www.linkedin.com/in/gustavo-rodriguez-3209b8256/)
 - 🌐 Personal Website: [your-website.com](https://your-website.com)
 
 ---
