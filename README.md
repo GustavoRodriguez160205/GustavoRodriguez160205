@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm Gustavo Rodriguez</h1>
-<h3 align="center">A Passionate IA Developer & Data Science Enthusiast from Argentina</h3>
+# Hi there, I'm Gustavo Rodriguez! 👋
 
-### 💬 About Me
+## About Me
 
-- 🚀 I am a backend developer dedicated to building efficient and scalable systems.
-- 🤖 I’m just starting my journey in **Artificial Intelligence** and **Data Science**, constantly exploring new technologies and methodologies.
-- 🌍 Based in Argentina, I am eager to collaborate with global teams and share knowledge.
-- 📚 I love tackling complex backend challenges and continuously learning to enhance my skills.
+- 🎓 Computer Science student passionate about software development and open-source contributions.
+- 💻 I love coding in Python, JavaScript, and C++.
+- 🌱 Currently learning more about web development and machine learning.
+- 🔭 Working on exciting personal projects and contributing to open-source communities.
+
+## Skills
+
+- **Languages:** Python, JavaScript, HTML, CSS , C#
+- **Frameworks:** React, Node.js, Django
+- **Tools:** Git, GitHub, Jira , Slack , Trello 
+- **Databases:** MySQL, MongoDB, PostgreSql
+
+## Projects
+
+### [Project Name](https://github.com/GustavoRodriguez160205/project-name)
+- Description: A brief description of what the project does and its main features.
+- Technologies: List the technologies used in the project.
+
+### [Another Project](https://github.com/GustavoRodriguez160205/another-project)
+- Description: A brief description of what the project does and its main features.
+- Technologies: List the technologies used in the project.
+
+## GitHub Stats
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoRodriguez160205&show_icons=true&theme=radical)
+
+## Get in Touch
+
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Gustavo Rodriguez](https://www.linkedin.com/in/gustavorodriguez160205)
+- 🌐 Personal Website: [your-website.com](https://your-website.com)
 
 ---
 
-### 🛠️ Tech Stack
-
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-#### Frameworks & Tools
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavodev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavodev&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
+⭐️ From [GustavoRodriguez160205](https://github.com/GustavoRodriguez160205)
